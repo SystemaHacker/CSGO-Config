@@ -1,0 +1,1 @@
+-console -novid -freq 144 -high -threads 4 -tickrate 128 -full -w 1024 -h 768 -language english -noaafonts -nojoy -nod3d9ex -nomicsettings
