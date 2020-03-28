@@ -1,0 +1,1 @@
+nvidia-settings --assign CurrentMetaMode="DFP-0: 1920x1080 { ViewPortIn=1440x1080, ViewPortOut=1440x1080+240+0 }"; %command% -console -novid -tickrate 128 -full -w 1024 -h 768 -language english -noaafonts -nojoy -d3d9ex -nomicsettings -freq 144; nvidia-settings --assign CurrentMetaMode="DFP-0: 1920x1080 { ViewPortIn=1920x1080, ViewPortOut=1920x1080+0+0 }"
